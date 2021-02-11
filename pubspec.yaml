@@ -1,0 +1,15 @@
+name: dart_api_client
+
+dependencies:
+  foursquare: '^0.1.0'
+  dotenv: ^2.0.0
+  google_maps_webservice: ^0.0.19
+  http: ^0.12.2
+  intl: ^0.16.1
+
+environment:
+  sdk: '>=2.10.0 <3.0.0'
+
+assets:
+  - .env
+  
